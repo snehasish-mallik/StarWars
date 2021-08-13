@@ -1,0 +1,24 @@
+
+/* abel font */
+@font-face {
+    font-family: Abel ;
+    src: url('/Fonts/abel/Abel-Regular.ttf');
+}
+
+/* new tagomon */
+@font-face {
+    font-family: Tagomin;
+    src: url('/Fonts/tagomin/NewTegomin-Regular.ttf');
+}
+@font-face {
+    font-family: Korna;
+    src: url('/Fonts/korna/KronaOne-Regular.ttf');
+}
+@font-face {
+    font-family: StarJedi;
+    src: url('/Fonts/star/Starjedi.ttf');
+}
+@font-face {
+    font-family: StarWars;
+    src: url('/Fonts/starwars/Starjhol.ttf');
+}
